@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeChains", "NodeChains\NodeChains.csproj", "{ED6E0D5D-89FE-4F82-84F4-7D5EF1C9010B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{D7E57393-169F-4957-AB66-0BD054A17D03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED6E0D5D-89FE-4F82-84F4-7D5EF1C9010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6E0D5D-89FE-4F82-84F4-7D5EF1C9010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6E0D5D-89FE-4F82-84F4-7D5EF1C9010B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E57393-169F-4957-AB66-0BD054A17D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E57393-169F-4957-AB66-0BD054A17D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E57393-169F-4957-AB66-0BD054A17D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E57393-169F-4957-AB66-0BD054A17D03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
